@@ -1,0 +1,6 @@
+[("j.root-servers.net", "192.58.128.30"), ("f.nic.online", "212.18.249.54"),
+    [("j.root-servers.net", "192.58.128.30"), ("m.gtld-servers.net", "192.55.83.30"),
+        [("j.root-servers.net", "192.58.128.30"), ("m.gtld-servers.net", "192.55.83.30"), ("a4-67.akam.net", "72.246.46.67"), ("a6-66.akam.net.", "23.211.133.66")
+        ], ("a6-66.akam.net.", "23.211.133.66"), ("ns54.domaincontrol.com.", "173.201.74.27")
+    ], ("ns54.domaincontrol.com.", "173.201.74.27"), ("ns1.uniquefortest.online", "43.156.107.193"), ("1.unique.001.uniquefortest.online", "192.168.7.132")
+]

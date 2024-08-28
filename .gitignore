@@ -1,7 +1,10 @@
 # Ignore all files in the output directory
 output/*
 cache/*
+cache.pickle/*
 output/error/*
+_multi/cache/*
+_multi/output/*
 
 # But don't ignore the output directory itself
 !output/
